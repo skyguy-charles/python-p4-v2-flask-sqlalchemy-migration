@@ -7,7 +7,7 @@
 - **Upgrade** a schema from an old version to a newer version.
 - Roll back, or **downgrade** a schema from a newer version to an older one.
 
----
+---,,,,
 
 ## Key Vocab
 
